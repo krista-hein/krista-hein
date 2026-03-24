@@ -21,7 +21,7 @@
 
 ## Kontakt
 - **Email:** kristahein.mail@gmail.com
-- **LinkedIn:** [linkedin.com/in/krista.hein](https://linkedin.com/in/krista.hein)
+- **LinkedIn:** [linkedin.com/in/krista-hein](https://linkedin.com/in/krista-hein)
 ---
 _"Data is the new oil, but analytics is the combustion engine."; – Peter
 Sondergaard_
